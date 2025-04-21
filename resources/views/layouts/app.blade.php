@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" href="./assets/svg/logo-small.svg" type="image/svg+xml" />
+    <link rel="icon" href="/assets/svg/logo-small.svg" type="image/svg+xml" />
     <title>Analytics - Admin Toolkit</title>
     <meta name="description"
         content="Admin Toolkit is a modern admin dashboard template based on Tailwindcss. It comes with a variety of useful ui components and pre-built pages" />
@@ -25,11 +25,11 @@
             document.documentElement.classList.remove('dark');
         }
     </script>
-    <script type="module" crossorigin src="./assets/js/index-91eca288.js"></script>
-    <link rel="modulepreload" crossorigin href="./assets/js/app-e81b91f2.js">
-    <link rel="modulepreload" crossorigin href="./assets/js/tailwind.config-f4ae5dac.js">
-    <link rel="modulepreload" crossorigin href="./assets/js/apexcharts.common-2171691b.js">
-    <link rel="stylesheet" href="./assets/css/app.css">
+    <script type="module" crossorigin src="/assets/js/index-91eca288.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/js/app-e81b91f2.js">
+    <link rel="modulepreload" crossorigin href="/assets/js/tailwind.config-f4ae5dac.js">
+    <link rel="modulepreload" crossorigin href="/assets/js/apexcharts.common-2171691b.js">
+    <link rel="stylesheet" href="/assets/css/app.css">
 </head>
 
 <body>
@@ -40,7 +40,7 @@
             <a href="/">
                 <div class="sidebar-header">
                     <div class="sidebar-logo-icon">
-                        <img src="./assets/svg/logo-small.svg" alt="logo" class="h-[45px]" />
+                        <img src="/assets/svg/logo-small.svg" alt="logo" class="h-[45px]" />
                     </div>
 
                     <div class="sidebar-logo-text">
@@ -316,7 +316,7 @@
                                 <button class="group relative flex items-center gap-x-1.5" type="button">
                                     <div class="avatar avatar-circle avatar-indicator avatar-indicator-online">
                                         <img class="avatar-img group-focus-within:ring group-focus-within:ring-primary-500"
-                                            src="./assets/images/avatar1.png" alt="Avatar 1" />
+                                            src="/assets/images/avatar1.png" alt="Avatar 1" />
                                     </div>
                                 </button>
                             </div>
